@@ -28,3 +28,11 @@ body,
   -o-background-size: cover;
   background-size: cover;
 }
+
+.card {
+    margin: 10px;
+}
+
+.project-button {
+    margin: 20px;
+}
