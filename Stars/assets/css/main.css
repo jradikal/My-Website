@@ -44,3 +44,18 @@ body {
   margin-top: 15px;
   margin-left: 15px;
 }
+
+.about-me-h1 {
+  margin: 50px;
+  text-align: center;
+}
+
+.about-me-image {
+  border: 1px solid rgba(0, 0, 0, 0.521);
+  border-radius: 15px;
+}
+
+.about-me-heading {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
